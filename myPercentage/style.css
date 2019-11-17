@@ -1,0 +1,42 @@
+body{
+    background-color: lightgrey;
+}
+
+.main-part{
+    text-align: center;
+    background-color: rgba(0,0,0,0.5);
+    width: 500px;
+    margin: 150px auto 0px;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+.main-part input{
+    margin: auto;
+    display: block;
+    padding: 8px;
+    margin-top: 10px;
+    font-size: 20px;
+    background-color: rgba(0,0,0,0.5);
+    border: none;
+    border-radius: 35px;
+    color: oldlace;
+    text-decoration: none;
+    text-align: center;
+    border-bottom: 2px solid lightpink;
+}
+.main-part button{
+    background-color: rgba(0,0,0,0.5);
+    border-bottom: 2px solid lightpink;
+    border-radius: 35px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+#result{
+    color: red;
+    border-bottom: 3px solid red;
+}
+#display{
+    color: red;
+    border-bottom: 3px solid red;
+}
